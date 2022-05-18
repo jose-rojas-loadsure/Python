@@ -3,6 +3,9 @@ def print_factorial(x):
     for i in range(1,x + 1):
         if x % i ==0:
             print(i)
-numero = 360
+numero = 720                                                      
+        fibonacci.py                                                                                                                    
+                                                                                                                                        
+no changes added to commit (use "git add" and/or "git commit -a")                     
 
 print_factorial(numero)
