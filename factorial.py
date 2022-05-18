@@ -3,6 +3,6 @@ def print_factorial(x):
     for i in range(1,x + 1):
         if x % i ==0:
             print(i)
-numero = 720
+numero = 360
 
 print_factorial(numero)
