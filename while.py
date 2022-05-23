@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Basic While
 
-"""year = 1918
+"""year = 1914
 while year <= 2022:
     print ("Informs to year", str(year))
     year += 1"""
